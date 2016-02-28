@@ -1,0 +1,3 @@
+ - analytics data of [@cdnjs/tutorials](https://github.com/cdnjs/tutorials) repository
+  - From May 30 2015 to Jan 11 2016 (https://github.com/cdnjs/tutorials/commit/ab43028b2a3ddb1b2abee09f67089298af883182 to https://github.com/cdnjs/tutorials/commit/62af1695bbda16ac6f9a13d255c9172d320bb965)
+ - using [@hoxu/gitstats](https://github.com/hoxu/gitstats) + [@yize/html-minify](https://github.com/yize/html-minify) + [optipng](http://optipng.sourceforge.net/)
